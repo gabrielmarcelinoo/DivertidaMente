@@ -1,6 +1,6 @@
 # Divertida Mente - Escolha de Personagem
 
-![Divertida Mente](img/divertida_mente_banner.jpg)
+![Divertida Mente](img/divertidabanner.png)
 
 ## Sobre o Projeto
 
@@ -28,7 +28,7 @@ Este projeto é uma interface interativa baseada no filme **Divertida Mente** (I
 - **Medo**
   - Descrição: O Medo mantém Riley segura, ajudando-a a evitar perigos.
   - Citação: "Ah! Tem certeza que isso é seguro?"
-  - ![Medo](img/medo.jpg)
+  - ![Medo](img/medo.png)
 
 - **Raiva**
   - Descrição: A Raiva representa o sentimento de frustração e injustiça de Riley.
