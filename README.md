@@ -1,6 +1,6 @@
 # Divertida Mente - Escolha de Personagem
 
-![Divertida Mente](img/divertidabanner.png)
+![Divertida Mente](img/divertidamentebanner.png)
 
 ## Sobre o Projeto
 
